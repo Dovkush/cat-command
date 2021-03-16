@@ -1,0 +1,11 @@
+this is an text file
+
+
+
+
+
+should be used in cat command
+this is myCat 
+it has 3 commands -s remove large spaces
+-n numbering to all lines
+-b numbering to all non empty lines only
